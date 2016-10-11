@@ -21,5 +21,5 @@ hello_trema.rbに、スイッチとの接続が終了した際に呼び出され
 ```
 
 ###課題ファイルへのリンク
-[@hello-trema-shuya-abe/lib/hello_trema.rb](https://github.com/handai-trema/hello-trema-shuya-abe/blob/master/lib/hello-trema.rb)
+[@hello-trema-shuya-abe/lib/hello_trema.rb](https://github.com/handai-trema/hello-trema-shuya-abe/blob/master/lib/hello_trema.rb)
 
